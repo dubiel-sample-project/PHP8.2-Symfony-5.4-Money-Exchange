@@ -9,7 +9,7 @@ Author Maciej Dubiel <munich55555@gmail.com>
 
 ## Installation
 
-* After unpacking the zip file, run the following command to install packages `php composer.phar install`
+* After downloading, run the following command to install packages `php composer.phar install`
 
 
 ## Usage
